@@ -1,2 +1,2 @@
 # calculadora_aluguel
-Projeto de data science para a construção de uma calculadora de aluguel.
+Web scrapping para construção de um dataset de imóveis.
